@@ -1,5 +1,7 @@
 # Climatic nuclei
 
+[![DOI](https://zenodo.org/badge/979414017.svg)](https://doi.org/10.5281/zenodo.15358377)
+
 This repository contains data and code associated with the paper **McLaughlin, Kling, Jackson, Zavaleta, and Ackerly (2025) Sustaining species of the future: ‘climatic nuclei’ for climate change adaptation. Global Change Biology.**
 
 This analysis reproduces the figure below, which illustrates potential future climatic nuclei in the Greater Yellowstone Ecosystem.
